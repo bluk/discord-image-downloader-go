@@ -20,22 +20,3 @@ _cgo_export.*
 _testmain.go
 
 *.exe
-*.test
-*.prof
-
-# Output of the go coverage tool, specifically when used with LiteIDE
-*.out
-
-config.ini
-crossbuild.bat
-
-testfolder/*
-database*/
-
-.idea/
-
-vendor
-credentials.json
-.DS_Store
-
-discord-image-downloader-go

@@ -1,0 +1,70 @@
+# cloud.google.com/go v0.34.0
+cloud.google.com/go/compute/metadata
+# github.com/ChimeraCoder/anaconda v2.0.0+incompatible
+github.com/ChimeraCoder/anaconda
+# github.com/ChimeraCoder/tokenbucket v0.0.0-20131201223612-c5a927568de7
+github.com/ChimeraCoder/tokenbucket
+# github.com/HouzuoGuo/tiedot v0.0.0-20180104213538-791033267fb3
+github.com/HouzuoGuo/tiedot/db
+github.com/HouzuoGuo/tiedot/data
+github.com/HouzuoGuo/tiedot/dberr
+github.com/HouzuoGuo/tiedot/tdlog
+github.com/HouzuoGuo/tiedot/gommap
+# github.com/Jeffail/gabs v1.1.1
+github.com/Jeffail/gabs
+# github.com/PuerkitoBio/goquery v1.5.0
+github.com/PuerkitoBio/goquery
+# github.com/andybalholm/cascadia v1.0.0
+github.com/andybalholm/cascadia
+# github.com/azr/backoff v0.0.0-20160115115103-53511d3c7330
+github.com/azr/backoff
+# github.com/bwmarrin/discordgo v0.19.0
+github.com/bwmarrin/discordgo
+# github.com/dustin/go-jsonpointer v0.0.0-20160814072949-ba0abeacc3dc
+github.com/dustin/go-jsonpointer
+# github.com/dustin/gojson v0.0.0-20160307161227-2e71ec9dd5ad
+github.com/dustin/gojson
+# github.com/garyburd/go-oauth v0.0.0-20180319155456-bca2e7f09a17
+github.com/garyburd/go-oauth/oauth
+# github.com/golang/protobuf v1.2.0
+github.com/golang/protobuf/proto
+# github.com/gorilla/websocket v1.4.0
+github.com/gorilla/websocket
+# github.com/hashicorp/go-version v1.0.0
+github.com/hashicorp/go-version
+# golang.org/x/crypto v0.0.0-20181203042331-505ab145d0a9
+golang.org/x/crypto/nacl/secretbox
+golang.org/x/crypto/internal/subtle
+golang.org/x/crypto/poly1305
+golang.org/x/crypto/salsa20/salsa
+# golang.org/x/net v0.0.0-20181201002055-351d144fa1fc
+golang.org/x/net/context
+golang.org/x/net/html
+golang.org/x/net/html/atom
+golang.org/x/net/context/ctxhttp
+# golang.org/x/oauth2 v0.0.0-20181203162652-d668ce993890
+golang.org/x/oauth2/google
+golang.org/x/oauth2
+golang.org/x/oauth2/internal
+golang.org/x/oauth2/jws
+golang.org/x/oauth2/jwt
+# google.golang.org/api v0.0.0-20181206181411-9df8e92b0627
+google.golang.org/api/drive/v3
+google.golang.org/api/googleapi
+google.golang.org/api/gensupport
+google.golang.org/api/googleapi/internal/uritemplates
+# google.golang.org/appengine v1.3.0
+google.golang.org/appengine
+google.golang.org/appengine/urlfetch
+google.golang.org/appengine/internal
+google.golang.org/appengine/internal/app_identity
+google.golang.org/appengine/internal/modules
+google.golang.org/appengine/internal/urlfetch
+google.golang.org/appengine/internal/base
+google.golang.org/appengine/internal/datastore
+google.golang.org/appengine/internal/log
+google.golang.org/appengine/internal/remote_api
+# gopkg.in/ini.v1 v1.39.2
+gopkg.in/ini.v1
+# mvdan.cc/xurls v1.1.0
+mvdan.cc/xurls
